@@ -45,6 +45,9 @@ code and the JSON returned will have an `errors` field at the top level
 containing a list of problems.  We look at the first one and print out its
 message.
 
+
+We are the champions, my friend.
+
 Main responsibilities
 ---------------------
 
